@@ -1,5 +1,5 @@
 # GitHub Teacher
-
+[![CI](https://github.com/rahul-ustg/skills-test-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/rahul-ustg/skills-test-with-actions/actions/workflows/ci.yml)
 _Charting the knowledge of the Internet, just like Galileo charted the stars._
 
 ## Experience
